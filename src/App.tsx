@@ -1,5 +1,3 @@
-import React from "react";
-import Logo from "./assets/react.svg";
 import "./App.css";
 import { TicTacToe } from "./components/TicTacToe";
 
