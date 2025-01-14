@@ -91,7 +91,7 @@ export const TicTacToe = () => {
       }, 200); // delay
     }
   };
-
+  // Restarting the game
   const restartGame = () => {
     setBoard(initialBoard);
     setPlayer("X");
